@@ -1,0 +1,1 @@
+location /qwe { proxy_pass http://www.cyberforum.ru }
